@@ -2,7 +2,7 @@
 Effect of plankton composition shifts in the North Atlantic on atmospheric pCO2
 Boot, A., von der Heydt, A.S., and Dijkstra, H.A. (2022)
 
-Script for plotting Figure S15a-f
+Script for creating DIC and ALK initial conditions from CESM2 data to input into SCP-M
 
 Necessary ESGF datasets:
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.dissic.gn    
