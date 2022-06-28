@@ -24,8 +24,8 @@ The datasets have been downloaded from: https://esgf-node.llnl.gov/search/cmip6/
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.si.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.bddtalk.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.bddtdic.gn
-- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.dissic.gn
-- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.talk.gn
+- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.dissic.gn
+- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.talk.gn
 
 Reference:
 Danabasoglu, Gokhan (2019). NCAR CESM2 model output prepared for CMIP6 C4MIP esm-ssp585. Version  20210607.Earth System Grid Federation. https://doi.org/10.22033/ESGF/CMIP6.7582 
