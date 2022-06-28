@@ -1,2 +1,6 @@
 In this folder we have included the processed data, and the scripts on how to get to this processed dataset.
 At the top of each script, the necessary files are listed. 
+
+Note:
+totD_esm585_100_1.nc and totP_esm585_100_1.nc are large files which cannot be uploaded.
+These files can be generated via ....py and are available upon request (d.boot@uu.nl).
