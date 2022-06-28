@@ -1,3 +1,16 @@
+"""
+Effect of plankton composition shifts in the North Atlantic on atmospheric pCO2
+Boot, A., von der Heydt, A.S., and Dijkstra, H.A. (2022)
+
+Script for producing BALK.txt and BDIC.txt
+
+Necessary ESGF datasets:
+- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.bddtalk.gn    
+- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.bddtdic.gn    
+
+@author: Amber Boot (d.boot@uu.nl)
+"""
+
 import xarray as xr 
 import numpy as np
 import xesmf as xe
