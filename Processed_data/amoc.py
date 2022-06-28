@@ -1,3 +1,17 @@
+"""
+Effect of plankton composition shifts in the North Atlantic on atmospheric pCO2
+Boot, A., von der Heydt, A.S., and Dijkstra, H.A. (2022)
+
+Script for plotting Figure S15a-f
+
+Necessary ESGF datasets:
+- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.thetao.gn
+- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.so.gn
+- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.msftmz.gn
+
+@author: Amber Boot (d.boot@uu.nl)
+"""
+
 import intake
 import xarray as xr 
 import matplotlib.pyplot as plt
