@@ -12,6 +12,8 @@ The datasets have been downloaded from: https://esgf-node.llnl.gov/search/cmip6/
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.mlotstmax.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.phydiat.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.phypico.gn
+- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.phydiat.gn
+- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.phypico.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.pp.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.so.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.thetao.gn
@@ -19,9 +21,9 @@ The datasets have been downloaded from: https://esgf-node.llnl.gov/search/cmip6/
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.vo.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Lmon.nbp.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.msftmz.gn
-- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.phyp.gn
-- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.po4.gn
-- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.si.gn
+- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.phyp.gn
+- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.po4.gn
+- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.si.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.bddtalk.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.bddtdic.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.dissic.gn
