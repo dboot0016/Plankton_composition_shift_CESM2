@@ -1,1 +1,4 @@
+This folder contains the model scripts to plot Figs. 1-4 in the main text and Figs. S2-S15 in the Supplmentary Material.
+Note that Fig. S1 is not a plot, just as the feedback loop of Fig. 4 in the main text.
 
+At the top of each script, the necessary datasets are listed.
