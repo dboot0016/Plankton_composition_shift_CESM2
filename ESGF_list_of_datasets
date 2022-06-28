@@ -8,7 +8,7 @@ The datasets have been downloaded from: https://esgf-node.llnl.gov/search/cmip6/
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.limndiat.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.limnpico.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.limfediat.gn
-- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.limfediat.gn
+- CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Omon.limfepico.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.mlotstmax.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.phydiat.gn
 - CMIP6.C4MIP.NCAR.CESM2.esm-ssp585.r1i1p1f1.Oyr.phypico.gn
