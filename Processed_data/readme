@@ -2,8 +2,8 @@ In this folder we have included the processed data, and the scripts on how to ge
 At the top of each script, the necessary files are listed. 
 
 Note:
-totD_esm585_100_1.nc and totP_esm585_100_1.nc are large files which cannot be uploaded.
-These files can be generated via ....py and are available upon request (d.boot@uu.nl).
+limsidiat_esm585_1.nc, limpdiat_esm585_1.nc, limppico_esm585_1.nc, totD_esm585_100_1.nc and totP_esm585_100_1.nc are large files which cannot be uploaded.
+These files can be generated via limsi_limp_tot.py and are available upon request (d.boot@uu.nl).
 
 theta0_esm585_zint_1.nc is also too large.
 This file can be generated via thetao_zint.py and is available upon request (d.boot@uu.nl)
